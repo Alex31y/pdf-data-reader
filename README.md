@@ -1,8 +1,8 @@
-# PDF-to-Text Extractor
+# PDF data scraper
 
 ## Overview
 
-Welcome to the PDF-to-Text Extractor repository! This application is designed to efficiently extract text from PDF files and to be run locally, without the need for hyperscalers or cloud services.
+This application is designed to efficiently extract text from PDF files and to be run locally, without the need for hyperscalers or cloud services.
 
 
 1. **Convert PDF to Image**: PDF files often have messy structures, making direct text extraction challenging. To overcome this, we convert the PDF into images, simplifying the data representation.
